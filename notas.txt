@@ -1,2 +1,4 @@
 ﻿Init
 Teste de repositorio no GitHub.
+
+Otimização de texto....
